@@ -1,0 +1,24 @@
+
+|                    |
+|                    |
+|                    |
+|                    |
+
+
+|                    |
+|xxxxxx              |
+|     x              |
+|     x              |
+
+
+|               xxxxx|
+|xxxxxx         x   x|
+|     x         xxxxx|
+|     x              |
+
+
+|oooooooooooooooxxxxx|
+|xxxxxxooooooooox   x|
+|     xoooooooooxxxxx|
+|     xoooooooooooooo|
+
